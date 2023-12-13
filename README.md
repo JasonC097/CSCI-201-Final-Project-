@@ -5,7 +5,7 @@ p5.js editor for the code
 https://editor.p5js.org/jc097/sketches/Oug5mK26z
 
 Github:
-https://jasonc097.github.io/CSCI-201-Final-Project
+https://jasonc097.github.io/CSCI-201-Final-Project-
 
 
 Screenshot of Project:
